@@ -1,4 +1,4 @@
-# 🏨 Hotel Reservation Cancellation Prediction App
+# 🏨 Hotel Reservation Cancellation Prediction & Overbooking Management App
 
 ## 🌐 Overview
 In the ever-evolving world of hospitality, hotel booking cancellations pose a continuous challenge, disrupting resource management and lowering revenue potential. This project introduces an innovative predictive model that leverages historical booking data to accurately forecast cancellations, empowering hoteliers to optimize revenue strategies with precision and confidence.
